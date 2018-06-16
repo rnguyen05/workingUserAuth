@@ -1,0 +1,40 @@
+{
+  "name": "express-4.x-facebook-example",
+  "version": "0.0.0",
+  "description": "Express 4.x app using Passport for authentication with Facebook.",
+  "keywords": [
+    "example",
+    "express",
+    "passport"
+  ],
+  "author": "Jared Hanson",
+  "license": "Unlicense",
+  "homepage": "https://github.com/passport/express-4.x-facebook-example",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/passport/express-4.x-facebook-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/passport/express-4.x-facebook-example/issues"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.3.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "promise": "^8.0.1",
+    "sequelize": "^4.37.10",
+    "sequelize-cli": "^4.0.0"
+  }
+}
